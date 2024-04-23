@@ -33,8 +33,6 @@ modules:
       neovim
       npm
       rapid-photo-downloader
-      syncthing
-      syncthingtray
       zig
       # - micro
       # - starship
